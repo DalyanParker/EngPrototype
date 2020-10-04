@@ -1,0 +1,406 @@
+[
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.1.1. Scope of Division A"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (1) Division A contains compliance and application provisions and the objectives and functional statements\r\nof this Code."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (1) Division A contains compliance and application provisions and the objectives and functional statements\r\nof this Code."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.1.2. Scope of Division B"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (1) Division B contains the acceptable solutions\r\nof this Code."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (1) Division B contains the acceptable solutions\r\nof this Code."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.1.3. Scope of Division C"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (1) Division C contains the administrative provisions of this Code."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (1) Division C contains the administrative provisions of this Code."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.1.4. Internal Cross-references"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (1) If a provision of this Code contains a reference to another provision of this Code but no Division is specified, both provisions are in the same Division of this Code."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (1) If a provision of this Code contains a reference to another provision of this Code but no Division is specified, both provisions are in the same Division of this Code."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.2.1. Application of Parts 1, 7 and 12"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": " (1) Part 1 of Division B applies to all buildings."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": " (1) Part 1 of Division B applies to all buildings."
+                    },
+                    "Items": []
+                }
+            },
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": " (2) Subject to Article 1.1.2.6., Parts 7 and 12 of Division B apply to all buildings."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": " (2) Subject to Article 1.1.2.6., Parts 7 and 12 of Division B apply to all buildings."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.2.2. Application of Parts 3, 4, 5 and 6"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": " (1) Subject to Articles 1.1.2.6. and 1.3.1.2., Parts 3, 5 and 6 of Division B apply to all buildings,"
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": " (1) Subject to Articles 1.1.2.6. and 1.3.1.2., Parts 3, 5 and 6 of Division B apply to all buildings,"
+                    },
+                    "Items": [
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (a) used for major occupancies classified as,"
+                            },
+                            "Items": [
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (i) Group A, assembly occupancies,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (ii) Group B, care, care and treatment or detention occupancies, or"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (iii) Group F, Division 1, high hazard industrial occupancies,"
+                                }
+                            ]
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (b) exceeding 600 m"
+                            },
+                            "Items": [
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (i) Group C, residential occupancies,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (ii) Group D, business and personal services occupancies,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (iii) Group E, mercantile occupancies,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (iv) Group F, Divisions 2 and 3, medium hazard industrial occupancies and low hazard industrial occupancies, or"
+                                }
+                            ]
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (c) used for retirement homes."
+                            },
+                            "Items": []
+                        }
+                    ]
+                }
+            },
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (2) Subject to Articles 1.1.2.6. and 1.3.1.2., Part 4 of Division B applies to,"
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (2) Subject to Articles 1.1.2.6. and 1.3.1.2., Part 4 of Division B applies to,"
+                    },
+                    "Items": [
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (a)  post-disaster buildings,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (b)  buildings\r\ndescribed in Sentence (1),"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (c) a retaining wall exceeding 1 000 mm in exposed height adjacent to,"
+                            },
+                            "Items": [
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (i) public property,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (ii) access to a building, or"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (iii) private property to which the public is admitted,"
+                                }
+                            ]
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (d) a pedestrian bridge appurtenant to a building,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (e) a crane runway,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (f) an exterior storage tank and its supporting structure that is not regulated by the Technical Standards and Safety Act, 2000,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (g) signs regulated by Section 3.15. of Division B that are not structurally supported by a building,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (h) a structure that supports a wind turbine generator having a rated output of more than 3 kW,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (i) an outdoor pool that has a water depth greater than 3.5 m at any point, and"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (j) a permanent solid nutrient storage facility with supporting walls exceeding 1 000 mm in exposed height."
+                            },
+                            "Items": []
+                        }
+                    ]
+                }
+            },
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (3) Section 3.11. of Division B applies to public pools."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (3) Section 3.11. of Division B applies to public pools."
+                    },
+                    "Items": []
+                }
+            },
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (4) Section 3.12. of Division B applies to public spas."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (4) Section 3.12. of Division B applies to public spas."
+                    },
+                    "Items": []
+                }
+            },
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": "  (5) Section 3.15. of Division B applies to signs."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": "  (5) Section 3.15. of Division B applies to signs."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.2.3. Application of Part 8"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": " (1) Subject to Article 1.1.2.6., Part 8 of Division B applies to the design, construction, operation and maintenance of all sewage systems and to the construction\r\nof buildings in the vicinity of sewage systems."
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": " (1) Subject to Article 1.1.2.6., Part 8 of Division B applies to the design, construction, operation and maintenance of all sewage systems and to the construction\r\nof buildings in the vicinity of sewage systems."
+                    },
+                    "Items": []
+                }
+            }
+        ]
+    },
+    {
+        "Section": {
+            "type": "Section",
+            "text": "1.1.2.4. Application of Part 9"
+        },
+        "Items": [
+            {
+                "Sub Section": {
+                    "type": "Sub Section",
+                    "text": " (1) Subject to Article 1.1.2.6 Part 9 of Division B applies to all buildings,"
+                },
+                "Items": {
+                    "Sub Section": {
+                        "type": "Sub Section",
+                        "text": " (1) Subject to Article 1.1.2.6 Part 9 of Division B applies to all buildings,"
+                    },
+                    "Items": [
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (a) of three or fewer storeys in building height,"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (b) having a building area not exceeding 600 m"
+                            },
+                            "Items": []
+                        },
+                        {
+                            "Clause": {
+                                "type": "Clause",
+                                "text": "  (c) used for major occupancies classified as,"
+                            },
+                            "Items": [
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (i) Group C, residential occupancies other than buildings\r\nused for retirement homes,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (ii) Group D, business and personal services occupancies,"
+                                },
+                                {
+                                    "type": "Sub Clause",
+                                    "text": "  (iii) Group E, mercantile occupancies, or"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
